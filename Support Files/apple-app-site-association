@@ -1,0 +1,14 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "358SG82RR7.ru.intravision.ktwoconsult.popup",
+            "paths": [
+                "i907svws11.corp.inchcape.ru/*"
+            ]
+        }]
+    },
+    "webcredentials": {
+        "apps": [ "358SG82RR7.ru.intravision.ktwoconsult.popup" ]
+    }
+}

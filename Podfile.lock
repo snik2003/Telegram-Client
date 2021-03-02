@@ -1,0 +1,28 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - JKVValue (1.3.3)
+  - RMQClient (0.11.0):
+    - CocoaAsyncSocket (~> 7.6)
+    - JKVValue (~> 1.3)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - RMQClient (~> 0.11.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - JKVValue
+    - RMQClient
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  JKVValue: d7941071b1cf9ba35c194fd40bcf4c4d9b5462e9
+  RMQClient: c77b0e715dbfcdfe81b304aa4f4e82b3d7ef6ff5
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: b10dd56ebfdad068f49fc46ac9c00d81416f60e4
+
+COCOAPODS: 1.10.0
